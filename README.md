@@ -1,6 +1,6 @@
 # Hello! Nice to see you. :wave:
 Welcome to my github page!
-I'm Yevhenii Sokolvak, Front end developer from  Zhytomyr, Ukraine.
+I'm Yevhenii Sokolvak, Front end developer from  Ukraine.
 ### My technology stack
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
